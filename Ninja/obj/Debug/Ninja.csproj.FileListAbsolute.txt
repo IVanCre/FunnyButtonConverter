@@ -1,0 +1,14 @@
+F:\Ninja\bin\Debug\Ninja.exe.config
+F:\Ninja\bin\Debug\Ninja.exe
+F:\Ninja\bin\Debug\Ninja.pdb
+F:\Ninja\obj\Debug\Ninja.csproj.CoreCompileInputs.cache
+F:\Ninja\obj\Debug\Ninja.exe
+F:\Ninja\obj\Debug\Ninja.pdb
+F:\Ninja\obj\Debug\Ninja.csprojAssemblyReference.cache
+D:\repos\Invader\Ninja\bin\Debug\Ninja.exe.config
+D:\repos\Invader\Ninja\bin\Debug\Ninja.exe
+D:\repos\Invader\Ninja\bin\Debug\Ninja.pdb
+D:\repos\Invader\Ninja\obj\Debug\Ninja.csproj.CoreCompileInputs.cache
+D:\repos\Invader\Ninja\obj\Debug\Ninja.exe
+D:\repos\Invader\Ninja\obj\Debug\Ninja.pdb
+D:\repos\Invader\Ninja\obj\Debug\Ninja.csprojAssemblyReference.cache
